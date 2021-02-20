@@ -100,16 +100,16 @@ Furthermore, I would be able to showcase my coding skills and knowledge of the H
 
 ![Image](https://res.cloudinary.com/dvsb7k8tp/image/upload/v1613833956/Logo/font_awesome_dyzqpu.png) [FontAwesome](https://fontawesome.com/) Icons for Social Media links in Footer.
 
-![Image](https://res.cloudinary.com/dvsb7k8tp/image/upload/v1613833955/Logo/google-fonts_j2f7p3.jpg) [Google Fonts](https://fonts.google.com/) - used for Typography.
+![Image](https://res.cloudinary.com/dvsb7k8tp/image/upload/v1613840002/Logo/google-fonts_d3nnwc.png) [Google Fonts](https://fonts.google.com/) - used for Typography.
 
 
 **3. Workspace, version control and Repository storage**
 
-![Image](https://res.cloudinary.com/dvsb7k8tp/image/upload/v1613833955/Logo/gitpod_f194sa.jpg) [GitPod](https://github.com/mkuti/corklagos-venture/blob/master/gitpod.io) - IDE (Integrated Development Environment)
+![Image](https://res.cloudinary.com/dvsb7k8tp/image/upload/v1613840002/Logo/gitpod_fh0hap.png) [GitPod](https://github.com/mkuti/corklagos-venture/blob/master/gitpod.io) - IDE (Integrated Development Environment)
 
 ![Image](https://res.cloudinary.com/dvsb7k8tp/image/upload/v1613833955/Logo/git_wyg1zs.png) [Git](https://git-scm.com/) - Distributed Version Control tool to store versions of files and track changes.
 
-![Image](https://res.cloudinary.com/dvsb7k8tp/image/upload/v1613833955/Logo/github_eyczaw.png) [GitHub](https://github.com/) - A cloud-based hosting service to manage **Git** repositories.
+![Image](https://res.cloudinary.com/dvsb7k8tp/image/upload/v1613840197/Logo/github_spyfxy.png) [GitHub](https://github.com/) - A cloud-based hosting service to manage **Git** repositories.
 
 **4. Other**
 - [Resizeimage](https://resizeimage.net/) - for photo editing 

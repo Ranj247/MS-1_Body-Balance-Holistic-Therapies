@@ -1,3 +1,47 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:100,200,300,400,500,600,700|Oswald:100,200,300,400,500,600,700&display=swap');
+
+:root {
+    --primary--clr:skyblue;
+    --secondary--clr:grey;
+    --secondary--link--clr:yellow;
+    --background--clr:#F0E8D1;
+    --text--clr: black;
+    --heading--h1:blue;
+    --heading--h2--h3:olive;
+    --btn:orange;
+    --form--clr:darkorange;
+}
+
 div {
     border-style: solid;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1rem;
+    background-color: var(--background--clr);
+    color: var(--text--clr);
+    height: 100vh;
+    width: 100%;
+}
+
+h1, h2, h3 {
+    font-family: 'Lato' sans-serif;
 }
