@@ -5,7 +5,9 @@
 * Browsers: last 4 version
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Lato:100,200,300,400,500,600,700|Oswald:100,200,300,400,500,600,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&family=Roboto&display=swap');
+
 
 :root {
     --primary--clr:skyblue;
@@ -19,9 +21,6 @@
     --form--clr:darkorange;
 }
 
-div {
-    border-style: solid;
-}
 
 * {
     margin: 0;
@@ -43,5 +42,20 @@ body {
 }
 
 h1, h2, h3 {
-    font-family: 'Lato' sans-serif;
+    font-family: 'Roboto' sans-serif;
 }
+
+/* ----------------------------------Navigation-------------------------------------*/
+
+#navbarNav {
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    text-transform: uppercase;
+}
+
+.navbar .navbar-nav a {
+    font-weight: 700;
+
+}
+
