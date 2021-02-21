@@ -13,7 +13,7 @@
     --primary--clr:skyblue;
     --secondary--clr:grey;
     --secondary--link--clr:yellow;
-    --background--clr:#F0E8D1;
+    --background--clr: white;
     --text--clr: black;
     --heading--h1:blue;
     --heading--h2--h3:olive;
@@ -45,6 +45,8 @@ h1, h2, h3 {
     font-family: 'Roboto' sans-serif;
 }
 
+
+
 /* ----------------------------------Navigation-------------------------------------*/
 
 #navbarNav {
@@ -57,6 +59,10 @@ h1, h2, h3 {
 .navbar .navbar-nav a {
     font-weight: 700;
 
+}
+
+.navbar-brand {
+    padding: 0px 4px;
 }
 
 
@@ -80,7 +86,7 @@ h1, h2, h3 {
 .home-callout-container {
     height: 100vh;
     width: 100%;
-    background: url("/assets/images/background_hero_image.jpeg") bottom right fixed;
+    background: url("/assets/images/background_hero_image.jpg") bottom right fixed;
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -125,7 +131,7 @@ h1, h2, h3 {
 
 
 
-
+/* -----------------------------------About Page------------------------------------ */
 
 
 
