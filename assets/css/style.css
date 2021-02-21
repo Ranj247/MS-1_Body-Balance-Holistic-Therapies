@@ -9,18 +9,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&family=Roboto&display=swap');
 
 
+
+/* -----------------------------------------website colors---------------------------------------------- */
+
 :root {
-    --primary--clr:skyblue;
-    --secondary--clr:grey;
-    --secondary--link--clr:yellow;
-    --background--clr: white;
-    --text--clr: black;
+    --primary--clr:#F5DEB3;
+    --secondary--clr:#8B4513;
+    --secondary--link--clr:#CD853F;
+    --background--clr:#FFFFFF;
+    --text--clr: #000000;
     --heading--h1:blue;
-    --heading--h2--h3:olive;
-    --btn:orange;
+    --heading--h2--h3:#A0522D;
+    --btn:#FFFFFF;
     --form--clr:darkorange;
 }
 
+/* -------------------------------------------root------------------------------------------------------- */
 
 * {
     margin: 0;
@@ -32,6 +36,9 @@ html {
     scroll-behavior: smooth;
 }
 
+
+/* ---------------------------------------General style--------------------------------------------------- */
+
 body {
     font-family: 'Oswald', sans-serif;
     font-size: 1rem;
@@ -41,8 +48,27 @@ body {
     width: 100%;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: 'Roboto' sans-serif;
+}
+
+h2 {
+
+}
+
+section {
+
+}
+
+
+.title-style {
+    background-color: var(--primary--clr);
+    margin: 96px 0px 20px 0px;
+    padding: 6px 3px;
+    text-align: center;
+    border-radius: 10px;
 }
 
 
@@ -54,6 +80,10 @@ h1, h2, h3 {
     -ms-flex-pack: end;
     justify-content: flex-end;
     text-transform: uppercase;
+}
+
+.navbar {
+    background-color: var(--primary--clr);
 }
 
 .navbar .navbar-nav a {
@@ -105,8 +135,12 @@ h1, h2, h3 {
 }
 
 .jumbotron {
-    border-radius: 25px;
+    border-radius: 20px;
     background-color: rgba(0, 0, 0, .2);
+}
+
+.jumbotron h2 {
+    color: #FFFFFF;
 }
 
 .btn {
@@ -135,7 +169,6 @@ h1, h2, h3 {
 
 
 
-
 /* -----------------------------------Therapies Page------------------------------------ */
 
 
@@ -156,15 +189,15 @@ footer {
     background-color:var(--primary--clr);
     color:var(--heading--h2--h3);
     position: fixed;
+    margin-top: 45px;
+    z-index: 1020;
 }
 
-.copyright {
-   margin-top: 8px;
+.inline-block {
+    display: inline-block;
+    margin-top: 8px;
 }
 
-.social-networks-links {
-   margin-top: 8px;
-}
 
 .social-networks-links ul {
    list-style: none;
