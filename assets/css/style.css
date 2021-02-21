@@ -135,4 +135,33 @@ h1, h2, h3 {
 
 
 
-  
+
+/* -----------------------------------Therapies Page------------------------------------ */
+
+
+
+
+/* -----------------------------------Contact Page------------------------------------ */
+
+
+
+
+
+
+/* -----------------------------------Footer------------------------------------ */
+
+footer {
+    width: 100%;
+    bottom: 0px;
+    height: 50px;
+    background-color:var(--primary--clr);
+    color:var(--heading--h2--h3);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    position: relative;
+    z-index: 1030;
+}
