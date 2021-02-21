@@ -59,3 +59,74 @@ h1, h2, h3 {
 
 }
 
+
+
+/* -----------------------------------Home Page------------------------------------ */
+
+.welcome-note {
+    letter-spacing: 1.5px;
+    color: var(--text--clr);
+    
+}
+
+.hr-line {   
+    width: 70%;
+    height:6px;
+    background-color: var(--secondary--clr);
+    margin: 20px auto;
+ }
+
+ 
+.home-callout-container {
+    height: 100vh;
+    width: 100%;
+    background: url("/assets/images/background_hero_image.jpeg") bottom right fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    /* height: 100%;
+    width: auto;
+    margin-bottom: 0px; */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+}
+
+.jumbotron {
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, .2);
+}
+
+.btn {
+    background-color: #55521A;
+    border: none;
+}
+
+.btn-lg {
+    font-size: 25px;
+}
+
+.btn-primary {
+    color: var(--btn);
+    background-color: var(--secondary--clr);
+    font-weight: 500;
+}
+
+.btn-primary:hover {
+    background-color: var(--secondary--link--clr);
+}
+
+
+
+
+
+
+
+
+  
