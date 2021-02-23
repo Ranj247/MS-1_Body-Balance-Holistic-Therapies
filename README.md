@@ -56,6 +56,22 @@ The business aims to reach out to the population in the local community, nearby 
 The aim of the project is that the client is looking to build a wider customers base with the online presence of their business. By building this project, client's website would provide more information on the Holistic therapies offered and their health benefits.
 When visiting a website, it is very important to get the first impression right i.e. What the business is about?
 
+### Business Goals:
+
+- Create an online presence through website which would promote the business at a wider scale.
+- Build a wider customer base in the local community, nearby towns, and the cities.
+- Build community awareness of the health benefits of the holistic therapies.
+
+### Customer Goals:
+
+- The site to be designed on the basis of the Mobile-first approach as this is the most common form of web searching these days.
+- Builds emotional connection, easy to read information, enough content to provide basic understanding of the holistic therapies.
+- Images used for the various treatments would provide basic explanation each of the therapy.
+- Easy to find contact details for any queries and to book appointment.
+- Easy reference to the social media links throughout the site.
+- Fixed navigation bar providing user easy navigation reference.
+- Fixed footer providing quick reference to Social Media links. 
+
 
 **2. Scope**
 
