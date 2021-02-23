@@ -18,10 +18,8 @@
     --secondary--link--clr:#CD853F;
     --background--clr:#FFFFFF;
     --text--clr: #000000;
-    --heading--h1:blue;
     --heading--h2--h3:#A0522D;
     --btn:#FFFFFF;
-    --form--clr:darkorange;
 }
 
 /* -------------------------------------------root------------------------------------------------------- */
@@ -32,9 +30,9 @@
     border: 0;
 }
 
-/* html {
+html {
     scroll-behavior: smooth;
-} */
+}
 
 
 /* ---------------------------------------General style--------------------------------------------------- */
@@ -54,13 +52,6 @@ h3 {
     font-family: 'Roboto' sans-serif;
 }
 
-h2 {
-
-}
-
-section {
-
-}
 
 
 .title-style {
@@ -108,7 +99,7 @@ section {
 .hr-line {   
     width: 70%;
     height:6px;
-    background-color: var(--secondary--clr);
+    background-color: var(--secondary--link--clr);
     margin: 20px auto;
  }
 
