@@ -97,15 +97,11 @@ I chose the MVP (Minimal Viable Product) approach which:
 
 *wireframes mockups:*
 
--  [Home](wireframes/Home-Page.png)
--  [About](wireframes/About-Page.png)
--  [Therapies](wireframes/Therapies-Page.png)
--  [Contact](wireframes/Contact-Page.png)
+- [Wireframes](assets/docs/wireframes.pdf): One-page website with **4** main sections
   
 - Home, About, Therapies and Contact
 - Fixed navigation bar - Menu headings pointing to each of the 4 pages.
 - Fixed Footer with Copyright info and Social Media icons
-
 
 **5. Surface**
 
