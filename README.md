@@ -139,6 +139,8 @@ The image selection has been carefully chosen to depict holistic massage therapi
 
 **Features Left to Implement when skills develop**
 
+- Form submission button needs to be functional (once Javascript is learnt).
+- Integration of Social media Page to have regular updates of signature blend of therapies, offers.
 ***
 
 ## Technologies Used
@@ -168,6 +170,10 @@ The image selection has been carefully chosen to depict holistic massage therapi
 ![Image](https://res.cloudinary.com/dvsb7k8tp/image/upload/v1613840197/Logo/github_spyfxy.png) [GitHub](https://github.com/) - A cloud-based hosting service to manage **Git** repositories.
 
 **4. Other**
+- [Autoprefixer](https://autoprefixer.github.io/) Parses CSS and adds vendor prefixes.
+- [Google Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) Mobile-friendly check on site.
+- [Website Page Test](https://www.webpagetest.org/) Runs a website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. 
+- [Online-Spellcheck](https://www.online-spellcheck.com/) Online spelling and grammar checks.
 - [Resizeimage](https://resizeimage.net/) - for photo editing 
 - [compresspng](https://compresspng.com/) - for photo editing
 
@@ -184,7 +190,6 @@ The image selection has been carefully chosen to depict holistic massage therapi
 ## Resources
 
 - [Code Institute Course Content](https://courses.codeinstitute.net/login) -Main source of fundamental knowledge.
-- Code Institute SLACK Community - Source of assistance
 - [youtube](https://www.youtube.com/) - General resource, add videos.
 - [Stack Overflow](https://stackoverflow.com/) -General resource.
 - [CSS-Tricks](https://css-tricks.com/)-General resource.
@@ -192,24 +197,11 @@ The image selection has been carefully chosen to depict holistic massage therapi
 - [Bootstrap Grid Explanation by Anna Greaves ](https://ajgreaves.github.io/bootstrap-grid-demo/) - This was an invaluable resource for me to wrap my head around Grid layouts.
 - [Balsamic](https://balsamiq.com/wireframes/) - Wireframing design tool to create wireframes.
 - [Css Variables](https://www.youtube.com/watch?v=PHO6TBq_auI&ab_channel=KevinPowell) - An introduction to CSS custom properties
-
-
-
-
 - [Am I Responsive](http://ami.responsivedesign.is/) - Responsive website mockup image generator.
-
 - [WebBbuilder Expert](https://www.websitebuilderexpert.com/designing-websites/how-to-choose-color-for-your-website/) -to choose colors for web
-
-- [Boxshadowgenerator](https://html-css-js.com/css/generator/box-shadow/) -  box shadow generator for gallery images
-
 - [Colors](https://coolors.co/) - color schemes generator.
-
 - [Contrast checker](https://webaim.org/resources/contrastchecker/) -contrast color checker
-
-> - [Coolors](https://coolors.co/) - Find matching color palette for site.
-
-
----
+- [Coolors](https://coolors.co/) - Find matching color palette for site.
 ***
 
 ## Testing

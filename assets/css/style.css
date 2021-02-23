@@ -5,13 +5,9 @@
 * Browsers: last 4 version
 */
 
-
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&family=Roboto&display=swap');
 
-
-
-/* -----------------------------------------website colors---------------------------------------------- */
-
+/* ------------------------website colors----------------- */
 :root {
     --primary--clr:#F5DEB3;
     --secondary--clr:#8B4513;
@@ -21,7 +17,7 @@
     --btn:#FFFFFF;
 }
 
-/* -------------------------------------------root------------------------------------------------------- */
+/* ------------------------root----------------- */
 
 * {
     margin: 0;
@@ -34,7 +30,7 @@ html {
 }
 
 
-/* ---------------------------------------General style--------------------------------------------------- */
+/* ---------------General style---------------------- */
 
 body {
     font-family: 'Oswald', sans-serif;
@@ -45,13 +41,10 @@ body {
     width: 100%;
 }
 
-h1,
 h2,
 h3 {
     font-family: 'Roboto' sans-serif;
 }
-
-
 
 .title-style {
     background-color: var(--primary--clr);
@@ -61,14 +54,12 @@ h3 {
     border-radius: 10px;
 }
 
-
-
-/* ----------------------------------Navigation-------------------------------------*/
+/* -------------------Navigation--------------------------*/
 
 #navbarNav {
     -webkit-box-pack: end;
-    -ms-flex-pack: end;
-    justify-content: flex-end;
+        -ms-flex-pack: end;
+            justify-content: flex-end;
     text-transform: uppercase;
 }
 
@@ -78,21 +69,17 @@ h3 {
 
 .navbar .navbar-nav a {
     font-weight: 700;
-
 }
 
 .navbar-brand {
     padding: 0px 4px;
 }
 
-
-
-/* -----------------------------------Home Page------------------------------------ */
+/* -------------------Home Page----------------------- */
 
 .welcome-note {
     letter-spacing: 1.5px;
     color: var(--text--clr);
-    
 }
 
 .hr-line {   
@@ -102,7 +89,6 @@ h3 {
     margin: 20px auto;
  }
 
- 
 .home-callout-container {
     height: 100vh;
     width: 100%;
@@ -113,9 +99,6 @@ h3 {
     align-items: center;
     justify-content: center;
     position: relative;
-    /* height: 100%;
-    width: auto;
-    margin-bottom: 0px; */
     display: -webkit-box;
     display: -ms-flexbox;
     -webkit-box-align: center;
@@ -152,42 +135,24 @@ h3 {
     background-color: var(--secondary--link--clr);
 }
 
-
-
-
-/* -----------------------------------About Page------------------------------------ */
-
-
-
-/* -----------------------------------Therapies Page------------------------------------ */
+/* ------------------Therapies Page-------------------- */
 
 .therapies-price {
     color: #880808;
     font-weight: 600;
 }
 
-
-/* -----------------------------------Contact Page------------------------------------ */
-
+/* -------------------Contact Page------------------------ */
 textarea {
     resize: none;
 }
-
-
-
 
 #contact {
     padding-bottom: 385px;
 
 }
 
-
-
-
-
-
-/* -----------------------------------Footer------------------------------------ */
-
+/* --------------------Footer------------------------ */
 footer {
     bottom: 0px;
     height: 3rem;
@@ -202,7 +167,6 @@ footer {
     display: inline-block;
     margin-top: 8px;
 }
-
 
 .social-networks-links ul {
    list-style: none;
