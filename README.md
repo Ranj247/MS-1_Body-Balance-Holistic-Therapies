@@ -48,11 +48,13 @@ Furthermore, after completing this project, I would be able to showcase my codin
 ***
 
 ## UX
+
 The business aims to reach out to the population in the local community, nearby towns and cities. The client already has a loyal customer base, however, needed the online presence to reach out to the wider population, and that’s why overall simple, yet effective website is aimed. The priority focus is on direct contact and social media links.
 
 ***
 
 **1. Strategy**
+
 The aim of the project is that the client is looking to build a wider customers base with the online presence of their business. By building this project, client's website would provide more information on the Holistic therapies offered and their health benefits.
 When visiting a website, it is very important to get the first impression right i.e. What the business is about?
 
@@ -75,9 +77,20 @@ When visiting a website, it is very important to get the first impression right 
 
 **2. Scope**
 
+I chose the MVP (Minimal Viable Product) approach which:
+- It provides users with pure UX.
+- As it is mobile-first website based approach which is responsive on all devices.
+- It suits my current coding skills.
+- It describes the treatments the business offers and focuses on contacting via email or social media. 
+
 
 
 **3. Structure**
+- The Structure is based upon the single page website with four different sections with captivating pictures which would attract the visitor's interest and enable them to quickly navigate through the website, easily obtain information and understand the treatments offered by the business.
+
+- Contact details have been placed in contact section and social media links are provided in the footer for easy access. 
+
+- A form will be added to the contact page with the following fields: "Name", "Email Address", and "Message Box". "Name", "Email Address" will be required in order to submit the form, "Email" input must be the valid format. User is alerted of correct input if data is invalid.
 
 
 **4. Skeleton**
