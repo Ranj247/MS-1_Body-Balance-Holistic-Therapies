@@ -37,17 +37,24 @@ Furthermore, after completing this project, I would be able to showcase my codin
 ***
 
 ## User Stories
+- I want to be able to  get the emotional connection by visiting the site.
+- I want to be able to navigate through the site easily, and efficiently.
+- I want to be able to  know more information about the business.
+- I want to be able to  know more about holistic therapies offered by the business, their health benefits, the cost.
+- I want to be able to  know more information about the business.
+- I want to be able to contact the business to get more information and schedule appointment.
 
 
 ***
 
 ## UX
-
+The business aims to reach out to the population in the local community, nearby towns and cities. The client already has a loyal customer base, however, needed the online presence to reach out to the wider population, and that’s why overall simple, yet effective website is aimed. The priority focus is on direct contact and social media links.
 
 ***
 
 **1. Strategy**
-
+The aim of the project is that the client is looking to build a wider customers base with the online presence of their business. By building this project, client's website would provide more information on the Holistic therapies offered and their health benefits.
+When visiting a website, it is very important to get the first impression right i.e. What the business is about?
 
 
 **2. Scope**
