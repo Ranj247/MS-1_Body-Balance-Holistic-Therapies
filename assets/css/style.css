@@ -59,9 +59,7 @@ h3 {
 /* Navigation */
 
 #navbarNav {
-    -webkit-box-pack: end;
-        -ms-flex-pack: end;
-            justify-content: flex-end;
+    justify-content: flex-end;
     text-transform: uppercase;
 }
 
@@ -102,12 +100,6 @@ h3 {
     align-items: center;
     justify-content: center;
     position: relative;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
 }
 
 .jumbotron {
@@ -175,14 +167,8 @@ footer {
 
 .social-networks-links ul {
    list-style: none;
-   display: -webkit-box;
-   display: -ms-flexbox;
    display: flex;
-   -webkit-box-pack: space-around;
-   -ms-flex-pack: space-around;
    justify-content: space-around;
-   -webkit-box-align: center;
-   -ms-flex-align: center;
    align-items: center;
 
 }
