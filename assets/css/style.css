@@ -7,17 +7,19 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&family=Roboto&display=swap');
 
-/* ------------------------website colors----------------- */
+/* website colors */
+
 :root {
-    --primary--clr:#F5DEB3;
-    --secondary--clr:#8B4513;
-    --secondary--link--clr:#CD853F;
-    --background--clr:#FFFFFF;
-    --text--clr: #000000;
+    --primary_clr:#F5DEB3;
+    --secondary_clr:#8B4513;
+    --secondary_link_clr:#CD853F;
+    --background_clr:#FFFFFF;
+    --text_clr: #000000;
     --btn:#FFFFFF;
 }
 
-/* ------------------------root----------------- */
+
+/* root */
 
 * {
     margin: 0;
@@ -30,31 +32,31 @@ html {
 }
 
 
-/* ---------------General style---------------------- */
+/* General style */
 
 body {
     font-family: 'Oswald', sans-serif;
     font-size: 1rem;
-    background-color: var(--background--clr);
-    color: var(--text--clr);
+    background-color: var(--background_clr);
+    color: var(--text_clr);
     height: 100vh;
     width: 100%;
 }
 
 h2,
 h3 {
-    font-family: 'Roboto' sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .title-style {
-    background-color: var(--primary--clr);
+    background-color: var(--primary_clr);
     margin: 96px 0px 20px 0px;
     padding: 6px 3px;
     text-align: center;
     border-radius: 10px;
 }
 
-/* -------------------Navigation--------------------------*/
+/* Navigation */
 
 #navbarNav {
     -webkit-box-pack: end;
@@ -64,7 +66,7 @@ h3 {
 }
 
 .navbar {
-    background-color: var(--primary--clr);
+    background-color: var(--primary_clr);
 }
 
 .navbar .navbar-nav a {
@@ -75,17 +77,18 @@ h3 {
     padding: 0px 4px;
 }
 
-/* -------------------Home Page----------------------- */
+
+/* Home Page */
 
 .welcome-note {
     letter-spacing: 1.5px;
-    color: var(--text--clr);
+    color: var(--text_clr);
 }
 
 .hr-line {   
     width: 70%;
     height:6px;
-    background-color: var(--secondary--link--clr);
+    background-color: var(--secondary_link_clr);
     margin: 20px auto;
  }
 
@@ -127,22 +130,24 @@ h3 {
 
 .btn-primary {
     color: var(--btn);
-    background-color: var(--secondary--clr);
+    background-color: var(--secondary_clr);
     font-weight: 500;
 }
 
 .btn-primary:hover {
-    background-color: var(--secondary--link--clr);
+    background-color: var(--secondary_link_clr);
 }
 
-/* ------------------Therapies Page-------------------- */
+
+/* Therapies Page */
 
 .therapies-price {
     color: #880808;
     font-weight: 600;
 }
 
-/* -------------------Contact Page------------------------ */
+
+/* Contact Page */
 textarea {
     resize: none;
 }
@@ -152,12 +157,12 @@ textarea {
 
 }
 
-/* --------------------Footer------------------------ */
+/* Footer */
+
 footer {
     bottom: 0px;
     height: 3rem;
-    background-color:var(--primary--clr);
-    color:var(--heading--h2--h3);
+    background-color:var(--primary_clr);
     position: fixed;
     margin-top: 45px;
     z-index: 1020;
@@ -183,12 +188,12 @@ footer {
 }
 
 .social-networks-links li a {
-   color: var(--heading--h2--h3);
+   color:var(--text_clr);
    margin: .2rem;
    padding: .2rem;
    font-size: 1.2rem;
 }
 
 .social-networks-links li a:hover {
-   color: var(--text--clr);
+   color: var(--secondary_link_clr);
 }
