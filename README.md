@@ -109,6 +109,23 @@ I chose the MVP (Minimal Viable Product) approach which:
 
 **5. Surface**
 
+I have decided on an attractive, calming landing page, and focusing immensely on the visual experience reflecting emotional connection to the user when looking at the home page, hero image. 
+
+
+- Primary color: #F5DEB3 (Wheat) - This color applies to the header & footer section, and section headings which maintains contrast to the landing page, hero image.
+- Secondary color: #8B4513 (Saddle Brown) - This color applies to the buttons.
+- Secondary link color: #8B4513 (Peru) - This color applies to the horizontal line in the jumbotron and as a secondary link color with hover effect. 
+- Background color: (#FFFFFF) - This color applies to the background, jumbotron text and button text.
+- text color: (#000000) - This color applies to menu headings, section titles and body text maintaining strong, balanced contrasts.
+
+### Typography
+- "Oswald" font (with fall-back font of Sans-Serif) for main headings. This font is sans-serif typeface and most commonly used for the websites.
+- "Roboto" font (with fall-back font of Sans-Serif) for body content.
+
+### Images
+
+The image selection has been carefully chosen to depict holistic massage therapies and provide emotional connection to the user interested in a treatment. 
+
 
 
 ***
