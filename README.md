@@ -30,65 +30,31 @@ The aim of this project is to **grow client base locally, in wider areas and by 
 
 ## Overview
 
-This website is built as a part of first Milestone project where the client is seeking to gain more customers with their online presence of the business and to provide more information in relation to the holistic therapies offered by the clinic. By building this project,
+This website is built as a part of first Milestone project where the client is looking to build a wider customers base with the online presence of their business. By building this project, client's website would provide more information on the Holistic therapies offered and their health benefits.
 
-Furthermore, I would be able to showcase my coding skills and knowledge of the HTML, CSS, Bootstrap 4 and User Centric Frontend Development modules learnt as part of the Code Institute’s FullStack Software Development Diploma Course.
+Furthermore, after completing this project, I would be able to showcase my coding skills and knowledge of the HTML, CSS, Bootstrap 4 and User Centric Frontend Development modules learnt as part of the Code Institute’s FullStack Software Development Diploma Course.
 
 ***
 
 ## User Stories
 
+
 ***
 
 ## UX
-When visiting a website, it is very important to get the first impression right i.e. What the business is about?
-### As a user:
-- I want to be able to  get the emotional connection by visiting the site.
-- I want to be able to navigate through the site easily, and efficiently.
-- I want to be able to  know more information about the business.
-- I want to be able to  know more about holistic therapies offered by the business, their health benefits, the cost.
-- I want to be able to  know more information about the business.
-- I want to be able to contact the business to get more information and schedule appointment.
 
 
 ***
 
 **1. Strategy**
 
-The business aims to reach out to the population in the local community, nearby towns and cities. The client already has a loyal customer base, however, needed the online presence to reach out to the wider population, and that’s why overall simple, yet effective website is aimed. The priority focus is on direct contact and social media links.
-
-### Business Goals:
-
-- Create an online presence through website which would promote the business at a wider scale.
-- Build a wider customer base in the local community, nearby towns, and the cities.
-- Build community awareness of the health benefits of the holistic therapies.
-
-### Customer Goals:
-
-- The site to be designed on the basis of the Mobile-first approach as this is the most common form of web searching these days.
-- Builds emotional connection, easy to read information, enough content to provide basic understanding of the holistic therapies.
-- Images used for the various treatments would provide basic explanation each of the therapy.
-- Easy to find contact details for any queries and to book appointment.
-- Easy reference to the social media links throughout the site.
-- Fixed navigation bar providing user easy navigation reference.
-- Fixed footer providing quick reference to Social Media links. 
 
 
 **2. Scope**
 
-I chose the MVP (Minimal Viable Product) approach which:
-- It provides users with pure UX.
-- As it is mobile-first website based approach which is responsive on all devices.
-- It suits my current coding skills.
-- It describes the treatments the business offers and focuses on contacting via email or social media. 
 
 
 **3. Structure**
-- The Structure is based upon the single page website with four different sections with captivating pictures which would attract the visitor's interest and enable them to quickly navigate through the website, easily obtain information and understand the treatments offered by the business.
-
-- Contact details have been placed in contact section and social media links are provided in the footer for easy access. 
-
-- A form will be added to the contact page with the following fields: "Name", "Email Address", and "Message Box". "Name", "Email Address" will be required in order to submit the form, "Email" input must be the valid format. User is alerted of correct input if data is invalid.
 
 
 **4. Skeleton**
@@ -107,7 +73,8 @@ I chose the MVP (Minimal Viable Product) approach which:
 
 **5. Surface**
 
-I have decided on an attractive, calming landing page, and focusing immensely on the visual experience reflecting emotional connection to the user when looking at the home page, hero image. 
+
+
 ***
 
 ## Features
