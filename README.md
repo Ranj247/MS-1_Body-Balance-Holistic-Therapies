@@ -1,4 +1,4 @@
-# [Body Balance](#github link)
+# [Body Balance](https://ranj247.github.io/Body-Balance-Holistic-Therapies/)
 
 ![Image](https://res.cloudinary.com/dvsb7k8tp/image/upload/v1613832390/Logo/logo_transparent_gytgwo.png)
  
@@ -25,6 +25,11 @@ The aim of this project is to **grow client base locally, in wider areas and by 
 ***
 
 ## Demo
+Please click on the image to open link in a new browser window.
+![Image](https://res.cloudinary.com/dvsb7k8tp/image/upload/v1614177097/Logo/Am_I_responsive_image_skyux5.png)
+
+
+A live demo can be found - [here](https://ranj247.github.io/Body-Balance-Holistic-Therapies/)
 
 ***
 
@@ -95,7 +100,7 @@ I chose the MVP (Minimal Viable Product) approach which:
 
 **4. Skeleton**
 
-*wireframes mockups:*
+*wireframes mock ups:*
 
 - [Wireframes](assets/docs/wireframes.pdf): One-page website with **4** main sections
   
@@ -210,7 +215,7 @@ The image selection has been carefully chosen to depict holistic massage therapi
 - Test carried on the **About, Therapies and Contact** pages/links in menu bar to ensure it points to each page and positions at the same eye level for each page.
 - Test carried on the **Social Media icons** in the Footer to ensure the specific link opens the correct pages, and in the new tab. 
 - Test carried on the **Read more** button link on the Home page to ensure that it opens the Therapies page on the same site. 
-- Test carried on the **Send** button on Contact page without filling any information to ensure that the an error displays under the text box displaying 'Please fill out this field'.
+- Test carried on the **Send** button on Contact page without filling any information to ensure that the error displays under the text box displaying 'Please fill out this field'.
 - Test carried on the **Email** input box by entering an invalid email address to ensure that an error displays under the text box displaying 'Please include an @ in the email address'.
 - Ran CSS through [Autoprefixer](https://autoprefixer.github.io/) and copied the resulted CSS codes back into style.css file.
 - Tested [HTML Validation](https://validator.w3.org/) No errors or warnings to show.
@@ -218,8 +223,11 @@ The image selection has been carefully chosen to depict holistic massage therapi
 - 1. Noted 7 warning issues related to the CSS Variables which appears to be a Parse Error. It has been noted that this is a non-issue after reading reports on [Stack Overflow](https://stackoverflow.com/questions/57661659/w3c-css-validation-parse-error-on-variables) and other sources. It is a requested feature on [Github](https://github.com/w3c/css-validator/issues/111) too.
 - 2. Warning 'Imported style sheets are not checked in direct input and file upload modes'. Confident to ignore these after researching and a common answer is that the validator will not validate imported style sheets. See [Stack Overflow](https://stackoverflow.com/questions/25946111/importing-css-is-ending-up-with-an-error).
 - Checked grammar and spelling throughout document.
-
-
+- Test carried on the Responsiveness of all pages using [Google Mobile-Friendly Test](https://search.google.com/test/mobile-friendly).
+- 1. [Result](https://search.google.com/test/mobile-friendly?id=_J82q_k2-clm-Lu46ZVgfw)
+- Test carried on the overall site colours on [a11y](https://color.a11y.com/), a Color Contrast Accessibility Validator. 
+- 1. Test result came back with excellent results.
+- Ran README text through [Online-Spellcheck](https://www.online-spellcheck.com/) to double-check on grammar and spelling.
 
 **Project barriers and solutions**
 - Encountered an issue relating to the menu bar where the menu bar was overlapping the jumbotron section on the home page. The issue was relating to the menu bar not being fixed and hero image was not added to the home page. To fix the menu bar to top, applied Bootstrap class 'fixed top' and after adding the hero image and styling the home page, issue was resolved. 
