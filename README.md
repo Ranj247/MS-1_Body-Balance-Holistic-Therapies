@@ -212,7 +212,6 @@ The image selection has been carefully chosen to depict holistic massage therapi
 - Test carried on the **Read more** button link on the Home page to ensure that it opens the Therapies page on the same site. 
 - Test carried on the **Send** button on Contact page without filling any information to ensure that the an error displays under the text box displaying 'Please fill out this field'.
 - Test carried on the **Email** input box by entering an invalid email address to ensure that an error displays under the text box displaying 'Please include an @ in the email address'.
-
 - Ran CSS through [Autoprefixer](https://autoprefixer.github.io/) and copied the resulted CSS codes back into style.css file.
 - Tested [HTML Validation](https://validator.w3.org/) No errors or warnings to show.
 - Tested [CSS Validation](https://jigsaw.w3.org/css-validator/) No errors found, however see notes below:
@@ -237,6 +236,22 @@ The image selection has been carefully chosen to depict holistic massage therapi
 
 **Deployment**
 
+The project has been deployed on GitHub Pages with the following process:
+
+- All code was written on Gitpod, an online IDE.
+- The code was then pushed to GitHub where it is stored in my [Repository](https://github.com/Ranj247/Body-Balance-Holistic-Therapies-v2).
+
+- Under the [settings]() section of the GitHub repository, scrolled down to GitHub Pages section.
+- Under 'Source' drop-down, the 'Master branch' was selected.
+- Once selected, this publishes the project to GitHub Pages and displays the site url.
+- There is no difference between the deployed version and the development version.
+- The code can be run locally through clone or download.
+- You can do this by opening the repository, clicking on the green 'Code' button and selecting either 'clone or download'.
+- The Clone option provides a url, which you can use on your desktop IDE.
+- The Download ZIP option provides a link to download a ZIP file which can be unzipped on your local machine.
+***
+
+
 
 ## Credits
 
@@ -255,7 +270,7 @@ The image selection has been carefully chosen to depict holistic massage therapi
 
 ***
 
-## Acknowledgments
+## Acknowledgements
 I would like to thank:
 
 - My mentor, **Caleb Mbakwe**, for his guidance, patience and encouragement throughout this project.
