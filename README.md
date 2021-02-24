@@ -223,7 +223,10 @@ The image selection has been carefully chosen to depict holistic massage therapi
 
 
 **Project barriers and solutions**
-    
+- Encountered an issue relating to the menu bar where the menu bar was overlapping the jumbotron section on the home page. The issue was relating to the menu bar not being fixed and hero image was not added to the home page. To fix the menu bar to top applied Bootstrap class 'fixed top' and after adding the hero image and styling the home page, issue was resolved. 
+- Encountered an issue with the title headings not aligning at the right eye level when each page is clicked. The issue related to the custom css class 'title-style' which was applied to a div container of row and in some sections, this was applied to a div container of column. This error was spotted with the help of the mentor at the second meeting.
+- Encountered an issue with the contact page's submit button which was hiding under the Footer tab due to a smaller contact section page. This was resolved by applying extra padding to the content in the contact section.
+- Noted an error due to the incorrect use of a semantic element 'article' on small section of the page as the text didn't require article tag as there was no heading available for the text, instead p tag was sufficient for the text. Then the article tag was removed from the text resulting no errors in the w3 html validator.
 
 **Code validity**
 - HTML - [Markup Validation W3C Service](https://validator.w3.org/)
