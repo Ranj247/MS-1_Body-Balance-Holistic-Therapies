@@ -206,7 +206,24 @@ The image selection has been carefully chosen to depict holistic massage therapi
 
 ## Testing
 
+- Test carried on the **Business Logo** which appears on the left of the menu bar to ensure it points to the Home page.
+- Test carried on the **About, Therapies and Contact** pages/links in menu bar to ensure it points to each page and positions at the same eye level for each page.
+- Test carried on the **Social Media icons** in the Footer to ensure the specific link opens the correct pages, and in the new tab. 
+- Test carried on the **Read more** button link on the Home page to ensure that it opens the Therapies page on the same site. 
+- Test carried on the **Send** button on Contact page without filling any information to ensure that the an error displays under the text box displaying 'Please fill out this field'.
+- Test carried on the **Email** input box by entering an invalid email address to ensure that an error displays under the text box displaying 'Please include an @ in the email address'.
+
+- Ran CSS through [Autoprefixer](https://autoprefixer.github.io/) and copied the resulted CSS codes back into style.css file.
+- Tested [HTML Validation](https://validator.w3.org/) No errors or warnings to show.
+- Tested [CSS Validation](https://jigsaw.w3.org/css-validator/) No errors found, however see notes below:
+- 1. Noted 7 warning issues related to the CSS Variables which appears to be a Parse Error. It has been noted that this is a non-issue after reading reports on [Stack Overflow](https://stackoverflow.com/questions/57661659/w3c-css-validation-parse-error-on-variables) and other sources. It is a requested feature on [Github](https://github.com/w3c/css-validator/issues/111) too.
+- 2. Warning 'Imported style sheets are not checked in direct input and file upload modes'. Confident to ignore these after researching and a common answer is that the validator will not validate imported style sheets. See [Stack Overflow](https://stackoverflow.com/questions/25946111/importing-css-is-ending-up-with-an-error).
+- Checked grammar and spelling throughout document.
+
+
+
 **Project barriers and solutions**
+    
 
 **Code validity**
 - HTML - [Markup Validation W3C Service](https://validator.w3.org/)
