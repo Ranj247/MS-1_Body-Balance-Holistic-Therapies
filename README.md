@@ -256,5 +256,9 @@ The image selection has been carefully chosen to depict holistic massage therapi
 ***
 
 ## Acknowledgments
+I would like to thank:
 
+- My mentor, **Caleb Mbakwe**, for his guidance, patience and encouragement throughout this project.
+- **Evka K** and **Jim Morel** for their time and advice on approaching the MS1 project and special thanks to **Jim Morel** for the YouTube videos 'MS1 Planning Session' and 'CI Slack Community' which really helped me a lot to know slack better and plan the MS1 project in a right direction.     
+- **CI staff** and **Slack Community** for always being on-hand with questions posted and assistance requests.
 ***
