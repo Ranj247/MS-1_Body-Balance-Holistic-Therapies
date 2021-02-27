@@ -26,6 +26,7 @@ The aim of this project is to **grow client base locally, in wider areas and by 
 
 ## Demo
 Please click on the image to open link in a new browser window.
+
 ![Image](https://res.cloudinary.com/dvsb7k8tp/image/upload/v1614177097/Logo/Am_I_responsive_image_skyux5.png)
 
 
@@ -229,6 +230,16 @@ The image selection has been carefully chosen to depict holistic massage therapi
 - 1. Test result came back with excellent results.
 - Ran README text through [Online-Spellcheck](https://www.online-spellcheck.com/) to double-check on grammar and spelling.
 
+**Testing User Stories**
+- I want to be able to navigate through the site easily, and efficiently.
+- 1. As the website is built with a single page with 4 sections acting as an individual page which provides an easy and comfortable scrolling through the website, enhancing the user experience.
+- I want to be able to  know more information about the business.
+- 1. The further information about the business owner is covered in the About section which is the next section to the Home page and once the client scrolls away from the HERO image, the About section will appear. 
+- I want to be able to  know more about holistic therapies offered by the business, their health benefits, the cost.
+- 1. The client can click the **Read More** button located on the **HERO Image** in the **Home Page** which will show the Therapies section with detailed information.
+- I want to be able to contact the business to get more information and schedule appointment.
+- 1. As the Form submission is not functional at the moment, however the client can contact the business through the mobile number and the email address link which opens in a separate browser window.
+
 **Project barriers and solutions**
 - Encountered an issue relating to the menu bar where the menu bar was overlapping the jumbotron section on the home page. The issue was relating to the menu bar not being fixed and hero image was not added to the home page. To fix the menu bar to top, applied Bootstrap class 'fixed top' and after adding the hero image and styling the home page, issue was resolved. 
 - Encountered an issue with the title headings not aligning at the right eye level when each page is clicked. The issue related to the custom css class 'title-style' which was applied to a div container of row and in some sections, this was applied to a div container of column. This error was spotted with the help of the mentor at the second meeting.
@@ -284,4 +295,5 @@ I would like to thank:
 - My mentor, **Caleb Mbakwe**, for his guidance, patience and encouragement throughout this project.
 - **Evka K** and **Jim Morel** for their time and advice on approaching the MS1 project and special thanks to **Jim Morel** for the YouTube videos 'MS1 Planning Session' and 'CI Slack Community' which really helped me a lot to know slack better and plan the MS1 project in a right direction.     
 - **CI staff** and **Slack Community** for always being on-hand with questions posted and assistance requests.
+- **Istvan Orosz** for his suggestion upon the site's review to apply a scroll property from the Bootstrap which will enhance user experience while they are scrolling through the different sections.
 ***
