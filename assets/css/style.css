@@ -147,8 +147,16 @@ textarea {
 
 #contact {
     padding-bottom: 385px;
-
 }
+
+#email-link a {
+    color: var(--text_clr);
+}
+
+#email-link a:hover {
+    color: var(--secondary_link_clr);
+}
+
 
 /* Footer */
 
