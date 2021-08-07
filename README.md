@@ -1,4 +1,4 @@
-# [Body Balance](https://ranj247.github.io/Body-Balance-Holistic-Therapies/)
+# [Body Balance](https://ranj247.github.io/MS-1_Body-Balance-Holistic-Therapies/)
 
 ![Image](https://res.cloudinary.com/dvsb7k8tp/image/upload/v1613832390/Logo/logo_transparent_gytgwo.png)
  
@@ -30,7 +30,7 @@ Please click on the image to open link in a new browser window.
 ![Image](https://res.cloudinary.com/dvsb7k8tp/image/upload/v1614177097/Logo/Am_I_responsive_image_skyux5.png)
 
 
-A live demo can be found - [here](https://ranj247.github.io/Body-Balance-Holistic-Therapies/)
+A live demo can be found - [here](https://ranj247.github.io/MS-1_Body-Balance-Holistic-Therapies/)
 
 ***
 
